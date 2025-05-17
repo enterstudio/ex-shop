@@ -6,8 +6,8 @@
     "watch": "node_modules/.bin/webpack --colors --watch"
   },
   "dependencies": {
-    "bootstrap": "^3.3.7",
-    "froala-editor": "^2.3.4",
+    "bootstrap": "^4.0.0",
+    "froala-editor": "^4.5.2",
     "jquery": "^3.0.0",
     "phoenix": "file:deps/phoenix",
     "phoenix_html": "file:deps/phoenix_html",
